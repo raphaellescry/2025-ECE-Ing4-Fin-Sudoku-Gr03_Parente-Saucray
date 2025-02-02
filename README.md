@@ -41,3 +41,4 @@ Pour ce qui est du Workflow de collaboration:
 
 Concernant enfin vos sujets respectifs et vos éventuelles questions spécifiques, je vous invite à utiliser le fil de discussion de votre groupe dans le forum du projet.
 # Solver-Norvig-Num-rique
+# Solver-Norvig-Num-rique
